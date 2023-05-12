@@ -1,8 +1,8 @@
 <h1  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=This+is+my+GITHUB+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=500&lines=This+is+my+GITHUB+Profile)](https://git.io/typing-svg)
 
-<img width=25% alt= Hello Robot src="https://github.com/Datta-Lohith/Datta-Lohith/assets/126642779/a1b4511e-7a5c-4237-8b70-58b96e247956">
+<img width=45% alt= Hello Robot src="https://github.com/Datta-Lohith/Datta-Lohith/assets/126642779/a1b4511e-7a5c-4237-8b70-58b96e247956">
 </h1>
 
 
