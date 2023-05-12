@@ -9,7 +9,7 @@
 - 👀 I’m interested in Planning and Perception for Autonomous Robots
 - 🌱 I’m currently pursuing Masters in Robotics at University of Maryland
 - 📫 How to reach me 
-<p align="left">
+<p align="left" style="margin-left: 2cm;">
 <a href="https://www.linkedin.com/in/datta-lohith-5461a5154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Datta-Lohith" height="30" width="40" /></a>
 <a href="https://instagram.com/datta_lohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datta_lohith" height="30" width="40" /></a>
 </p>
