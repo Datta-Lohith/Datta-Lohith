@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&width=435&lines=This+is+my+GITHUB+Profile)](https://git.io/typing-svg)
 
-![wepik-export-20230512034015SHCy](https://github.com/Datta-Lohith/Datta-Lohith/assets/126642779/9b8ffc9b-6485-404a-a85f-5ec8c6e65418)
+<img width=15% alt= Hello Robot src="https://github.com/Datta-Lohith/Datta-Lohith/assets/126642779/9b8ffc9b-6485-404a-a85f-5ec8c6e65418">
 
 - 👀 I’m interested in Planning and Perception for Autonomous Robots
 - 🌱 I’m currently pursuing Masters in Robotics at University of Maryland
