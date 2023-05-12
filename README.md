@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Datta Lohith Gannavarapu
+- 👀 I’m interested in Planning and Perception for Autonomous Robots
+- 🌱 I’m currently pursuing Masters in Robotics at University of Maryland
+- 📫 How to reach me 
+  - Email - gdatta@umd.edu
+  - Phone - 240-960-4450  
