@@ -5,6 +5,7 @@
 <img width=45% alt= Hello Robot src="https://github.com/Datta-Lohith/Datta-Lohith/assets/126642779/a1b4511e-7a5c-4237-8b70-58b96e247956">
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Datta-Lohith&color=green)
 
 - 👀 I’m interested in Planning and Perception for Autonomous Robots
 - 🌱 I’m currently pursuing Masters in Robotics at University of Maryland
